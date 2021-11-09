@@ -1,0 +1,10 @@
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\bin\Debug\Lab1_CalculatorV2.exe.config
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\bin\Debug\Lab1_CalculatorV2.exe
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\bin\Debug\Lab1_CalculatorV2.pdb
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.csprojAssemblyReference.cache
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.Properties.Resources.resources
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.csproj.GenerateResource.cache
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.csproj.CoreCompileInputs.cache
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.exe
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.pdb
+C:\Study\5 курс\1 семестр\С#\Lab1_CalculatorV2\Lab1_CalculatorV2\obj\Debug\Lab1_CalculatorV2.Calculator.resources
